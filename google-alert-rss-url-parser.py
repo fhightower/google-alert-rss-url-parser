@@ -34,7 +34,7 @@ def init_parser():
 def init_threat_connect():
     """."""
     config = configparser.RawConfigParser()
-    config.read('tc.conf.example')
+    config.read('tc.conf')
 
     try:
         api_access_id = config.get('threatconnect', 'api_access_id')
