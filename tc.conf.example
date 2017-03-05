@@ -1,0 +1,5 @@
+[threatconnect]
+api_access_id = 12345678900987654321
+api_default_org = Test Org
+api_secret_key = aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz!@#$%^&*()-=
+api_base_url = https://api.threatconnect.com
